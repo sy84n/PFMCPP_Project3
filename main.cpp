@@ -36,51 +36,51 @@ Sub Object 1: Steering Wheel
     Name 4 things you'll find on the:    Steering Wheel
         1) paddle shifters
         2) 'cruise control' controls
-        3) 
-        4) 
+        3) media player controls
+        4) honk buttons
     Name 2 things you can do with the:   Steering Wheel
         1) adjust cruise control settings.
-        2)
+        2) control media player
         
 Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
-        1)
-        2)
-        3)
-        4)
+        1) speedometer
+        2) fuel gauge
+        3) tachometer
+        4) oil pressure gauge
     Name 3 things you can do with the:   Instrument Cluster
-        1)
-        2)
-        3)
+        1) check speed
+        2) check fuel level
+        3) check RPM speed
     
 Sub Object 3: Environment Controls
     Name 3 things you'll find on the:    Environment Controls
-        1)
-        2)
-        3)
+        1) temperature controls
+        2) a/c buttons
+        3) defrosting buttons
     Name 3 things you can do with the:   Environment Controls
-        1)
-        2)
-        3)
+        1) increase temperature
+        2) turn the a/c on
+        3) defrost rear window
 
 Sub Object 4: Infotainment System
     Name 3 things you'll find on the:    Infotainment System
-        1)
-        2)
-        3)
+        1) bluetooth controls
+        2) apps controls
+        3) screen controls
     Name 3 things you can do with the:   Infotainment System
-        1)
-        2)
-        3)
+        1) connect smartphone to system
+        2) use waze app to navigate
+        3) change screen brightness
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
-        1)
-        2)
-        3)
+        1) power seat controls
+        2) windows controls
+        3) mirrors controls
     Name 2 things you can do with the:   Seat
-        1)
-        2)
+        1) adjust seat position
+        2) adjust mirrors direction
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
