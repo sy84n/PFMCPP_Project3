@@ -57,59 +57,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Car
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of seats
+    2) number of airbags
+    3) number of speakers
+    4) amount of temperature
+    5) engine type (string)
 3 things it can do:
-    1)
-    2)
-    3)
+    1) move around roads
+    2) play music
+    3) cool/heat the car
  */
 
 /*
-Thing 2)
+Thing 2) Computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) processor type (string)
+    2) number of memory sticks
+    3) number of hard-drives
+    4) number of fans
+    5) number of USB ports
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Browse the web
+    2) Chat online
+    3) Play games
  */
 
 /*
-Thing 3)
+Thing 3) Coffee Machine
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of cups served per day
+    2) the amount of water used per day.
+    3) the amount of double-espresso served per day
+    4) the amount of single-espresso served per day
+    5) the brand name (string)
 3 things it can do:
-    1)
-    2)
-    3)
+    1) Make coffee
+    2) Show the time
+    3) Add cream only
  */
 
 /*
-Thing 4)
+Thing 4) Hitman (Video Game)
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of friendlies that remained alive
+    2) number of enemies that you killed
+    3) difficulty level
+    4) outfit selection
+    5) weapons inventory
 3 things it can do:
-    1)
-    2)
-    3)
+    1) allow player to play a map
+    2) award player for achievements
+    3) update statistics as player advances the game
  */
 
 
